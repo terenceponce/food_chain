@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 require 'minitest/autorun'
-require 'byebug'
 
 require_relative 'food_chain'
 
